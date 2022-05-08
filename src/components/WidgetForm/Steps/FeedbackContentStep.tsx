@@ -2,7 +2,7 @@ import { ArrowLeft, Camera } from 'phosphor-react'
 import { FormEvent, useState } from 'react'
 import { FeedbackType, feedbackTypes } from '..'
 import { CloseButton } from '../../CloseButton'
-import { api } from '../../lib/api'
+import { api } from '../../../lib/api'
 import { Loading } from '../../Loading'
 import { ScreenshotButton } from '../ScreenshotButton'
 
