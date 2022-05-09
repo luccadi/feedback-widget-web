@@ -24,7 +24,7 @@ The user chooses a type of feedback to be sent, after that a description is requ
 
 Project developed during Rocketseat's Next Level Week Return
 
-Acesse a aplicação em funcionamento: 
+Acesse a aplicação em funcionamento: https://feedget-app.vercel.app
 
 API: [Feedback Widget (API)](https://github.com/LuccaDi/feedback-widget-api)
 
