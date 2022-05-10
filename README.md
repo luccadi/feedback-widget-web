@@ -1,11 +1,10 @@
 <h1 align="center">🚀 Feedget 🚀</h1>
 
 <p align="center">
-  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/feedget?color=%238257E5">
-  <img  alt="Principal linguagem do projeto"  src="https://img.shields.io/github/languages/top/tfronn/nlw-return?color=%238257E5">
-  <img  alt="Quantidade de linguagens utilizadas"  src="https://img.shields.io/github/languages/count/tfronn/nlw-return?color=%238257E5">
+  <img alt="GitHub" src="https://img.shields.io/github/license/LuccaDi/feedback-widget-web?color=%23831D1C">
+  <img  alt="Principal linguagem do projeto"  src="https://img.shields.io/github/languages/top/LuccaDI/feedback-widget-web?color=%23831D1C">
+  <img  alt="Quantidade de linguagens utilizadas"  src="https://img.shields.io/github/languages/count/LuccaDI/feedback-widget-web?color=%23831D1C">
 </p>
-
 
 <p align="center">
   <a href="#-project">Project</a> |
@@ -13,6 +12,15 @@
   <a href="#-features">Features</a> |
   <a href="#-getting-started">Getting started</a> |
   <a href="#-license">License</a>
+</p>
+
+<img src=".github/main-page.png">
+<p style="display: flex" >
+  <img src=".github/feedback-options.png" width="33%" alt="">
+  <img src=".github/idea-option.png" width="33%" alt="">
+  <img src=".github/idea-option-description.png" width="33%" alt="">
+  <img src=".github/sending-idea.png" width="33%" alt="">
+  <img src=".github/feedback-sent.png" width="33%" alt="">
 </p>
 
 
