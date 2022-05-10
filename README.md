@@ -16,11 +16,11 @@
 
 <img src=".github/main-page.png">
 <p style="display: flex" >
-  <img src=".github/feedback-options.png" width="32%" alt="">
-  <img src=".github/idea-option.png" width="32%" alt="">
-  <img src=".github/idea-option-description.png" width="32%" alt="">
-  <img src=".github/sending-idea.png" width="33%" alt="">
-  <img src=".github/feedback-sent.png" width="33%" alt="">
+  <img src=".github/feedback-options.png" width="32.5%" alt="">
+  <img src=".github/idea-option.png" width="32.5%" alt="">
+  <img src=".github/idea-option-description.png" width="32.5%" alt="">
+  <img src=".github/sending-idea.png" width="32.5%" alt="">
+  <img src=".github/feedback-sent.png" width="32.5%" alt="">
 </p>
 
 
