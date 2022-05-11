@@ -28,11 +28,11 @@
 
 Web version of a feedback widget application, dubbed "Feedget", which can be added to any mobile or web environment.
 
-The user chooses a type of feedback to be sent, after that a description is requested for the feedback and optionally the user can automatically add a screenshot, after sending the feedback will be registered in the database and an email will be automatically sent to the owner from the website.
+The user chooses a type of feedback to be sent, after that a description is requested for the feedback and optionally the user can automatically add a screenshot, after sending the feedback will be registered in the database and an email will be automatically sent to the website/application owner.
 
 Project developed during Rocketseat's Next Level Week Return
 
-Acesse a aplicação em funcionamento: https://feedget-app.vercel.app
+Access the running application: https://feedget-app.vercel.app
 
 API: [Feedback Widget (API)](https://github.com/LuccaDi/feedback-widget-api)
 
@@ -107,5 +107,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Made with 💜 by <a href="https://www.linkedin.com/in/luccadi/">Lucca Di Bastiani</a>
+  Made with ❤️ by <a href="https://www.linkedin.com/in/luccadi/">Lucca Di Bastiani</a>
 </p>
