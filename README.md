@@ -49,7 +49,7 @@ Mobile version: [Feedback Widget (Mobile)](https://github.com/LuccaDi/feedback-w
 - [Headless UI](https://headlessui.dev/)
 - [Phosphor Icons](https://phosphoricons.com)
 - [html2canvas](https://html2canvas.hertzen.com)
-- [nodemailer](https://nodemailer.com/about/)
+- [Nodemailer](https://nodemailer.com/about/)
 
 
 ## 🛠 Features 
