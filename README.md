@@ -45,10 +45,11 @@ Mobile version: [Feedback Widget (Mobile)](https://github.com/LuccaDi/feedback-w
 - [Typescript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
+- [Axios](https://axios-http.com/ptbr/)
 - [Headless UI](https://headlessui.dev/)
 - [Phosphor Icons](https://phosphoricons.com)
 - [html2canvas](https://html2canvas.hertzen.com)
-- [Axios](https://axios-http.com/ptbr/)
+- [nodemailer](https://nodemailer.com/about/)
 
 
 ## 🛠 Features 
