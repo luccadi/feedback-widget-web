@@ -42,6 +42,7 @@ Mobile version: [Feedback Widget (Mobile)](https://github.com/LuccaDi/feedback-w
 ## 🚀 Technologies
 
 - [ReactJS](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
 - [Headless UI](https://headlessui.dev/)
@@ -60,9 +61,11 @@ Mobile version: [Feedback Widget (Mobile)](https://github.com/LuccaDi/feedback-w
 
 ✔️ Possibility of sending a new feedback at the end
 
-🛠️ Dark and light theme
+<!---
+  🛠️ Dark and light theme
 
-🚧 Dashboard to track the feedbacks received
+  🚧 Dashboard to track the feedbacks received
+-->
 
 
 ## 🏁 Getting started
